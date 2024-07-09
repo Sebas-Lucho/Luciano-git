@@ -1,0 +1,64 @@
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.div{
+    font-size: 25px;
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-right: 695px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+
+}
+
+.formulario{
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-bottom: 10px;
+    margin-right: 230px;
+    background-color: lightslategray;
+    padding: 15px;
+    color: black;
+
+}
+
+.enviar{
+    margin-top: 10px;
+    height: 30px;
+    width: 200px;
+    background-color: yellow;
+    color: black;
+}
+    
+.estilo1{
+    background-color: yellow;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+    width: 200px;
+    margin-left: 220px;
+    margin-bottom: 10px;
+}
+
+.estilo2{
+    background-color: yellow;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+    width: 200px;
+    margin-left: 220px;
+    margin-bottom: 10px;
+
+}
+
+
+
+
+
